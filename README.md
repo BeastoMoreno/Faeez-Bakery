@@ -1,1 +1,2 @@
 # Faeez-Bakery
+A bakery ordering system using Java Swing that provides a GUI for customers to place orders. The system gives users the ability to input their name, select their membership status, pick from category (Cake, Bread, Cookies), pick each item to order with quantities, and utilize the cart system. The system includes discounts for members (5% discount), options to remove items and a checkout for the overall bakery shopping experience.
